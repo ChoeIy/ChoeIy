@@ -15,6 +15,6 @@
    <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </div>
 
-##<i>Estudante 1º ano Unipar<i/>
+<h2><i>Estudante 1º ano Unipar<i/><h2/>
 
-###email para contato - marcelocapelini9@gmail.com
+<h3>email para contato - marcelocapelini9@gmail.com<h3/>
