@@ -14,3 +14,7 @@
    <img align="center" alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
    <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </div>
+
+##<i>Estudante 1º ano Unipar<i/>
+
+###email para contato - marcelocapelini9@gmail.com
